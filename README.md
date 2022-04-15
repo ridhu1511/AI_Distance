@@ -9,20 +9,20 @@ It’s advisable to [make a new virtual environment](https://towardsdatascience.
 
 ## Clone the repository
 ```
-git clone https://github.com/aqeelanwar/SocialDistancingAI.git
+git clone https://github.com/ridhu1511/AI_Distance.git
 ```
 ## Install required packages
 The provided requirements.txt file can be used to install all the required packages. Use the following command
 
 ```
-cd SocialDistancingAI
+cd AI_Distance
 pip install –r requirements.txt
 ```
 
 
 ## Run the project
 ```
-cd SocialDistancingAI
+cd AI_Distance
 python main.py --videopath "vid_short.mp4"
 ```
 
@@ -50,6 +50,3 @@ The gif below will help understand the points better
 The complete block diagram of the algorithm can be seen below.
 ![Block Diagram](images/block_diagram.png)
 
-A detailed article on the working of this project can be found [here](https://medium.com/@aqeel.anwar/monitoring-social-distancing-using-ai-c5b81da44c9f)
-
-__Idea credits: LandingAI__
